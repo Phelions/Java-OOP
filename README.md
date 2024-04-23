@@ -1,2 +1,2 @@
-# Java-OOP
-Repo list for my projects Java OOP
+# My projects - Java OOP
+
