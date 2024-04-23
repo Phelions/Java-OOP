@@ -1,2 +1,2 @@
-# My projects - Java OOP
+# Java OOP
 
